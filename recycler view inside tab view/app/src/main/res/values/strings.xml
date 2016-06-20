@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Tab View</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="week_name">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="option_list">
+        <item>Nil</item>
+        <item>Nil</item>
+        <item>Nil</item>
+        <item>Nil</item>
+        <item>Nil</item>
+        <item>Nil</item>
+        <item>Nil</item>
+    </string-array>
+    <string-array name="cost_list">
+        <item>Nil</item>
+        <item>Nil</item>
+        <item>Nil</item>
+        <item>Nil</item>
+        <item>Nil</item>
+        <item>Nil</item>
+        <item>Nil</item>
+    </string-array>
+
+</resources>
